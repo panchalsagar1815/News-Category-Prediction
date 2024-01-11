@@ -1,4 +1,4 @@
-# News-Category-Prediction
+
 **Project Title: News Category Prediction**
 
 **Overview:**
