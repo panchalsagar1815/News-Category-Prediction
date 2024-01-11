@@ -2,7 +2,7 @@
 **Project Title: News Category Prediction**
 
 **Overview:**
-The "News Category Prediction" project is designed to develop a sophisticated system for automatically categorizing news articles into different genres based on their content. Leveraging a dataset comprising features such as category, headline, authors, link, short_description, and date, this project utilizes a combination of data preprocessing techniques, advanced machine learning models, and convolutional neural networks to achieve accurate and efficient news categorization.
+The "News Category Prediction" project is designed to develop a sophisticated system for automatically categorizing news articles into different genres based on their content. Leveraging a dataset comprising features such as category, headline, authors, link, short description, and date, this project utilizes a combination of data preprocessing techniques, advanced machine learning models, and convolutional neural networks to achieve accurate and efficient news categorization.
 
 **Key Features:**
 
